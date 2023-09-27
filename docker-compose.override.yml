@@ -11,7 +11,7 @@ services:
       - "8.8.8.8"
       - "8.8.4.4"
     environment:
-      LANCACHE_IP: ""
+      LANCACHE_IP: "192.168.0.70"
 
   sni:
     dns:
